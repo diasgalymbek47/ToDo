@@ -1,0 +1,9 @@
+.todos__tasks {
+    margin-top: 30px;
+    padding: 10px;
+
+    background-color: #ececec;
+    border-radius: 3px;
+
+    transition: 0.3s ease;
+}
